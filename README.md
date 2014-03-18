@@ -1,4 +1,3 @@
-atom-greycloud-theme
-====================
+# greycloud-theme theme
 
-Light grey color scheme for Github's Atom, based on Monokai
+Light grey color scheme based on Monokai
