@@ -1,7 +1,7 @@
 {
   "name": "GreyCloud-theme",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Light grey color scheme based on Monokai",
   "repository": "https://github.com/Nivl/atom-greycloud-theme",
   "license": "MIT",
